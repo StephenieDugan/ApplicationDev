@@ -1,0 +1,14 @@
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TheCoolestTicTacToe\TheCoolestTicTacToe\bin\Debug\net7.0\TheCoolestTicTacToe.exe
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TheCoolestTicTacToe\TheCoolestTicTacToe\bin\Debug\net7.0\TheCoolestTicTacToe.deps.json
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TheCoolestTicTacToe\TheCoolestTicTacToe\bin\Debug\net7.0\TheCoolestTicTacToe.runtimeconfig.json
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TheCoolestTicTacToe\TheCoolestTicTacToe\bin\Debug\net7.0\TheCoolestTicTacToe.dll
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TheCoolestTicTacToe\TheCoolestTicTacToe\bin\Debug\net7.0\TheCoolestTicTacToe.pdb
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TheCoolestTicTacToe\TheCoolestTicTacToe\obj\Debug\net7.0\TheCoolestTicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TheCoolestTicTacToe\TheCoolestTicTacToe\obj\Debug\net7.0\TheCoolestTicTacToe.AssemblyInfoInputs.cache
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TheCoolestTicTacToe\TheCoolestTicTacToe\obj\Debug\net7.0\TheCoolestTicTacToe.AssemblyInfo.cs
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TheCoolestTicTacToe\TheCoolestTicTacToe\obj\Debug\net7.0\TheCoolestTicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TheCoolestTicTacToe\TheCoolestTicTacToe\obj\Debug\net7.0\TheCoolestTicTacToe.dll
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TheCoolestTicTacToe\TheCoolestTicTacToe\obj\Debug\net7.0\refint\TheCoolestTicTacToe.dll
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TheCoolestTicTacToe\TheCoolestTicTacToe\obj\Debug\net7.0\TheCoolestTicTacToe.pdb
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TheCoolestTicTacToe\TheCoolestTicTacToe\obj\Debug\net7.0\TheCoolestTicTacToe.genruntimeconfig.cache
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TheCoolestTicTacToe\TheCoolestTicTacToe\obj\Debug\net7.0\ref\TheCoolestTicTacToe.dll
