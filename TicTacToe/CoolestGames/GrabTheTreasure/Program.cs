@@ -14,13 +14,14 @@ namespace ConsoleApp1
                 PlayGame();
                 Console.Write("Do you want to play again? (yes/no): ");
                 string playAgainInput = Console.ReadLine().ToLower();
-                playAgain = playAgainInput == "yes";
+                if(playAgainInput == "yes") { playAgain = true; }
+                   else { playAgain = false; }
             }
         }
 
         static void PlayGame()
         {
-            char[,] aryMap = new char[10, 10] {
+            char[,] Map = new char[10, 10] {
                 { '_', '_', '_', '_', '_', '_', '_', '_', '_', '_'},
                 { '|', '$', ' ', ' ', ' ', ' ', ' ', ' ', ' ', '|'},
                 { '|', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', '|'},
@@ -33,14 +34,14 @@ namespace ConsoleApp1
                 { '|', '_', '_', '_', '_', '_', '_', '_', '_', '|'}
             };
 
-            int[] aryHeroPos = { 3, 1 }; // Initial position of the hero
-            int[] aryEnemyPos = { 3, 5 }; // Initial position of the enemy
+            int[] HeroPos = { 3, 1 }; // Initial position of the hero
+            int[] EnemyPos = { 3, 5 }; // Initial position of the enemy
 
             Console.WriteLine("Name of player: ");
-            string playerName = Console.ReadLine();
-            if (string.IsNullOrEmpty(playerName))
+            string name = Console.ReadLine();
+            if (string.IsNullOrEmpty(name))
             {
-                playerName = "Player 1";
+                name = "Player 1";
             }
 
             bool gameOver = false;
@@ -48,43 +49,43 @@ namespace ConsoleApp1
 
             while (!gameOver)
             {
-                DisplayMap(aryMap);
-                Console.WriteLine($"\n{playerName}, enter your move (1 - up, 2 - down, 3 - left, 4 - right): ");
+                DisplayMap(Map);
+                Console.WriteLine($"\n{name}, enter your move (1 - up, 2 - down, 3 - left, 4 - right): ");
                 string input = Console.ReadKey().KeyChar.ToString();
                 int move;
 
                 if (int.TryParse(input, out move))
                 {
-                    int[] newHeroPos = MoveHero(aryHeroPos, move);
-                    if (IsMoveLegal(newHeroPos, aryMap))
+                    int[] newHeroPos = MoveHero(HeroPos, move);
+                    if (IsMoveLegal(newHeroPos, Map))
                     {
-                        aryMap[aryHeroPos[0], aryHeroPos[1]] = ' ';
-                        aryHeroPos = newHeroPos;
-                        aryMap[aryHeroPos[0], aryHeroPos[1]] = 'H';
+                        Map[HeroPos[0], HeroPos[1]] = ' ';
+                        HeroPos = newHeroPos;
+                        Map[HeroPos[0], HeroPos[1]] = 'H';
 
                         // Check if hero grabbed the treasure
-                        if (aryHeroPos[0] == 1 && aryHeroPos[1] == 1)
+                        if (HeroPos[0] == 1 && HeroPos[1] == 1)
                         {
                             hasTreasure = true;
                         }
 
                         // Move enemy randomly
-                        aryMap[aryEnemyPos[0], aryEnemyPos[1]] = ' ';
-                        aryEnemyPos = MoveEnemy(aryEnemyPos, aryMap);
-                        aryMap[aryEnemyPos[0], aryEnemyPos[1]] = 'E';
+                        Map[HeroPos[0], HeroPos[1]] = ' ';
+                        EnemyPos = MoveEnemy(EnemyPos, Map);
+                        Map[EnemyPos[0], EnemyPos[1]] = 'E';
 
                         // Check if hero touched the enemy
-                        if (aryHeroPos[0] == aryEnemyPos[0] && aryHeroPos[1] == aryEnemyPos[1])
+                        if (HeroPos[0] == EnemyPos[0] && HeroPos[1] == EnemyPos[1])
                         {
                             gameOver = true;
                             Console.WriteLine("\nGame Over! You were caught by the enemy.");
                         }
 
                         // Check if hero escaped with the treasure
-                        if (hasTreasure && aryHeroPos[0] == 0 && aryHeroPos[1] == 9)
+                        if (hasTreasure && HeroPos[0] == 0 && HeroPos[1] == 9)
                         {
                             gameOver = true;
-                            Console.WriteLine($"\nCongratulations, {playerName}! You escaped with the treasure!");
+                            Console.WriteLine($"\nCongratulations, {name}! You escaped with the treasure!");
                         }
                     }
                     else
