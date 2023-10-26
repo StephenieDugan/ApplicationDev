@@ -34,12 +34,13 @@ partial class Form1
         // checkBox1
         // 
         checkBox1.AutoSize = true;
-        checkBox1.Location = new Point(12, 57);
+        checkBox1.Location = new Point(33, 35);
         checkBox1.Name = "checkBox1";
         checkBox1.Size = new Size(121, 29);
         checkBox1.TabIndex = 0;
         checkBox1.Text = "checkBox1";
         checkBox1.UseVisualStyleBackColor = true;
+        checkBox1.CheckedChanged += checkBox1_CheckedChanged;
         // 
         // Form1
         // 

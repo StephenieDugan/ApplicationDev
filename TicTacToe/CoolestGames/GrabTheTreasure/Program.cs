@@ -20,14 +20,17 @@ namespace ConsoleApp1
 
         static void PlayGame()
         {
-            char[,] aryMap = new char[7, 7] {
-                { '_', '_', '_', '_', '_', '_', '_'},
-                { '|', '$', ' ', ' ', ' ', ' ', '|'},
-                { '|', ' ', ' ', ' ', ' ', ' ', '|'},
-                { '|', 'Ȫ', ' ', ' ', ' ', ' ', ' '},
-                { '|', ' ', '_', '|', ' ', ' ', '|'},
-                { '|', ' ', ' ', '|', ' ', ' ', '|'},
-                { '|', '_', '_', '|', '_', '_', '_'}
+            char[,] aryMap = new char[10, 10] {
+                { '_', '_', '_', '_', '_', '_', '_', '_', '_', '_'},
+                { '|', '$', ' ', ' ', ' ', ' ', ' ', ' ', ' ', '|'},
+                { '|', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', '|'},
+                { '|', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', '|'},
+                { '|', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' '},
+                { '|', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', '|'},
+                { '|', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', '|'},
+                { '|', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', '|'},
+                { '|', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', '|'},
+                { '|', '_', '_', '_', '_', '_', '_', '_', '_', '|'}
             };
 
             int[] aryHeroPos = { 3, 1 }; // Initial position of the hero
@@ -46,7 +49,7 @@ namespace ConsoleApp1
             while (!gameOver)
             {
                 DisplayMap(aryMap);
-                Console.WriteLine($"{playerName}, enter your move (1 - up, 2 - down, 3 - left, 4 - right): ");
+                Console.WriteLine($"\n{playerName}, enter your move (1 - up, 2 - down, 3 - left, 4 - right): ");
                 string input = Console.ReadKey().KeyChar.ToString();
                 int move;
 
@@ -74,24 +77,24 @@ namespace ConsoleApp1
                         if (aryHeroPos[0] == aryEnemyPos[0] && aryHeroPos[1] == aryEnemyPos[1])
                         {
                             gameOver = true;
-                            Console.WriteLine("Game Over! You were caught by the enemy.");
+                            Console.WriteLine("\nGame Over! You were caught by the enemy.");
                         }
 
                         // Check if hero escaped with the treasure
-                        if (hasTreasure && aryHeroPos[0] == 6 && aryHeroPos[1] == 3)
+                        if (hasTreasure && aryHeroPos[0] == 0 && aryHeroPos[1] == 9)
                         {
                             gameOver = true;
-                            Console.WriteLine($"Congratulations, {playerName}! You escaped with the treasure!");
+                            Console.WriteLine($"\nCongratulations, {playerName}! You escaped with the treasure!");
                         }
                     }
                     else
                     {
-                        Console.WriteLine("Invalid move. The spot is inaccessible. Try again.");
+                        Console.WriteLine("\nInvalid move. The spot is inaccessible. Try again.");
                     }
                 }
                 else
                 {
-                    Console.WriteLine("Invalid input. Please enter a number between 1 and 4.");
+                    Console.WriteLine("\nInvalid input. Please enter a number between 1 and 4.");
                 }
             }
         }

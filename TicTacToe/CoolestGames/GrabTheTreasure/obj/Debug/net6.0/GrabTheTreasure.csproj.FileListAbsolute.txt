@@ -1,0 +1,14 @@
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TicTacToe\CoolestGames\GrabTheTreasure\bin\Debug\net6.0\GrabTheTreasure.exe
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TicTacToe\CoolestGames\GrabTheTreasure\bin\Debug\net6.0\GrabTheTreasure.deps.json
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TicTacToe\CoolestGames\GrabTheTreasure\bin\Debug\net6.0\GrabTheTreasure.runtimeconfig.json
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TicTacToe\CoolestGames\GrabTheTreasure\bin\Debug\net6.0\GrabTheTreasure.dll
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TicTacToe\CoolestGames\GrabTheTreasure\bin\Debug\net6.0\GrabTheTreasure.pdb
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TicTacToe\CoolestGames\GrabTheTreasure\obj\Debug\net6.0\GrabTheTreasure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TicTacToe\CoolestGames\GrabTheTreasure\obj\Debug\net6.0\GrabTheTreasure.AssemblyInfoInputs.cache
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TicTacToe\CoolestGames\GrabTheTreasure\obj\Debug\net6.0\GrabTheTreasure.AssemblyInfo.cs
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TicTacToe\CoolestGames\GrabTheTreasure\obj\Debug\net6.0\GrabTheTreasure.csproj.CoreCompileInputs.cache
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TicTacToe\CoolestGames\GrabTheTreasure\obj\Debug\net6.0\GrabTheTreasure.dll
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TicTacToe\CoolestGames\GrabTheTreasure\obj\Debug\net6.0\refint\GrabTheTreasure.dll
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TicTacToe\CoolestGames\GrabTheTreasure\obj\Debug\net6.0\GrabTheTreasure.pdb
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TicTacToe\CoolestGames\GrabTheTreasure\obj\Debug\net6.0\GrabTheTreasure.genruntimeconfig.cache
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TicTacToe\CoolestGames\GrabTheTreasure\obj\Debug\net6.0\ref\GrabTheTreasure.dll
