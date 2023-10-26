@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "86BdTZ6Xt2kC9H5AyVZn7YGcupNGNV7pO2qkAfMikdc6S2GrytPMLqKMPJDg5B1aWmzdy8sOPgotIwNjmaCf8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Stephenie\\OneDrive - Neumont College of Computer Science\\Second Year\\Q1\\ApplicationDev\\ApplicationDev\\TicTacToe\\ConsoleApp1\\CracktheSafe\\CracktheSafe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stephenie\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Stephenie\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Stephenie\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Stephenie\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
