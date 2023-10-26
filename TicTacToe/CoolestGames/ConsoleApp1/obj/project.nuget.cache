@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "rULhxO58hSeYpchf0hUuUKgAxpHDhnFrlshZfQ8LVrPA9TrIvvSFZXnz2EhfZZXHSSu5TunwLDCE+RHOG3fdrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Stephenie\\OneDrive - Neumont College of Computer Science\\Second Year\\Q1\\ApplicationDev\\ApplicationDev\\TicTacToe\\CoolestGames\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stephenie\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Stephenie\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Stephenie\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Stephenie\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
