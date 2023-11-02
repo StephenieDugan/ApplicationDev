@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Stephenie\\OneDrive - Neumont College of Computer Science\\Second Year\\Q1\\ApplicationDev\\ApplicationDev\\TheCoolestTicTacToe\\TheCoolestTicTacToe\\TheCoolestTicTacToe.csproj",
+      "projectUniqueName": "C:\\Users\\Stephenie\\OneDrive - Neumont College of Computer Science\\Second Year\\Q1\\ApplicationDev\\ApplicationDev\\TheCoolestTicTacToe\\TheCoolestTicTacToe\\TheCoolestTicTacToe\\TheCoolestTicTacToe.csproj",
       "projectName": "TheCoolestTicTacToe",
-      "projectPath": "C:\\Users\\Stephenie\\OneDrive - Neumont College of Computer Science\\Second Year\\Q1\\ApplicationDev\\ApplicationDev\\TheCoolestTicTacToe\\TheCoolestTicTacToe\\TheCoolestTicTacToe.csproj",
+      "projectPath": "C:\\Users\\Stephenie\\OneDrive - Neumont College of Computer Science\\Second Year\\Q1\\ApplicationDev\\ApplicationDev\\TheCoolestTicTacToe\\TheCoolestTicTacToe\\TheCoolestTicTacToe\\TheCoolestTicTacToe.csproj",
       "packagesPath": "C:\\Users\\Stephenie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Stephenie\\OneDrive - Neumont College of Computer Science\\Second Year\\Q1\\ApplicationDev\\ApplicationDev\\TheCoolestTicTacToe\\TheCoolestTicTacToe\\obj\\",
+      "outputPath": "C:\\Users\\Stephenie\\OneDrive - Neumont College of Computer Science\\Second Year\\Q1\\ApplicationDev\\ApplicationDev\\TheCoolestTicTacToe\\TheCoolestTicTacToe\\TheCoolestTicTacToe\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Stephenie\\AppData\\Roaming\\NuGet\\NuGet.Config",

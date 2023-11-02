@@ -1,0 +1,17 @@
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TicTacToe\thebestestgames\bin\Debug\net7.0-windows\thebestestgames.exe
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TicTacToe\thebestestgames\bin\Debug\net7.0-windows\thebestestgames.deps.json
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TicTacToe\thebestestgames\bin\Debug\net7.0-windows\thebestestgames.runtimeconfig.json
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TicTacToe\thebestestgames\bin\Debug\net7.0-windows\thebestestgames.dll
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TicTacToe\thebestestgames\bin\Debug\net7.0-windows\thebestestgames.pdb
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TicTacToe\thebestestgames\obj\Debug\net7.0-windows\thebestestgames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TicTacToe\thebestestgames\obj\Debug\net7.0-windows\thebestestgames.AssemblyInfoInputs.cache
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TicTacToe\thebestestgames\obj\Debug\net7.0-windows\thebestestgames.AssemblyInfo.cs
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TicTacToe\thebestestgames\obj\Debug\net7.0-windows\thebestestgames.csproj.CoreCompileInputs.cache
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TicTacToe\thebestestgames\obj\Debug\net7.0-windows\thebestestgames.dll
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TicTacToe\thebestestgames\obj\Debug\net7.0-windows\refint\thebestestgames.dll
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TicTacToe\thebestestgames\obj\Debug\net7.0-windows\thebestestgames.pdb
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TicTacToe\thebestestgames\obj\Debug\net7.0-windows\thebestestgames.genruntimeconfig.cache
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TicTacToe\thebestestgames\obj\Debug\net7.0-windows\ref\thebestestgames.dll
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TicTacToe\thebestestgames\obj\Debug\net7.0-windows\thebestestgames.Form1.resources
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TicTacToe\thebestestgames\obj\Debug\net7.0-windows\thebestestgames.Properties.Resources.resources
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TicTacToe\thebestestgames\obj\Debug\net7.0-windows\thebestestgames.csproj.GenerateResource.cache
