@@ -14,3 +14,4 @@ C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1
 C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TicTacToe\CoolestGames\CrackSafeWindNet\obj\Debug\net7.0-windows\CrackSafeWindNet.pdb
 C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TicTacToe\CoolestGames\CrackSafeWindNet\obj\Debug\net7.0-windows\CrackSafeWindNet.genruntimeconfig.cache
 C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TicTacToe\CoolestGames\CrackSafeWindNet\obj\Debug\net7.0-windows\ref\CrackSafeWindNet.dll
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TicTacToe\CoolestGames\CrackSafeWindNet\obj\Debug\net7.0-windows\CrackSafeWindNet.Properties.Resources.resources
