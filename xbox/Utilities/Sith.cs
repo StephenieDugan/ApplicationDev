@@ -6,12 +6,16 @@ using System.Threading.Tasks;
 
 namespace Rise_of_the_Neu_Republic.Utilities
 {
-    internal class StormTrooper: Character, ICanAttack
+    internal class Sith: Character, ICanAttack
     {
         public int damage { get; set; }
-        public bool attemptAttack(int damage)
+        public bool attemptAttack(int difficulty)
         {
             return false;
         }
-}
+        public bool performAttack(int difficulty)
+        {
+            return false;
+        }
+    }
 }

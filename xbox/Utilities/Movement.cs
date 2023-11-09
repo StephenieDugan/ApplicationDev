@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Rise_of_the_Neu_Republic.Utilities
 {
-    internal class NPC : Character
+    internal class Movement
     {
+
     }
 }

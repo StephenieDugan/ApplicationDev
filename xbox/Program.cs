@@ -1,3 +1,5 @@
+using Rise_of_the_Neu_Republic.Utilities;
+
 namespace ApplicationDev;
 
 static class Program
@@ -12,5 +14,9 @@ static class Program
         // see https://aka.ms/applicationconfiguration.
         ApplicationConfiguration.Initialize();
         Application.Run(new Form1());
+
+        Character myCharacter = new Character();
+
+
     }    
 }

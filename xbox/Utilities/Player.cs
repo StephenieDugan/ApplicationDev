@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Rise_of_the_Neu_Republic.Utilities
 {
-    internal class Player
+    internal class Player : Character
     {
     }
 }
