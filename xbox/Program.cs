@@ -13,10 +13,12 @@ static class Program
         // To customize application configuration such as set high DPI settings or default font,
         // see https://aka.ms/applicationconfiguration.
         ApplicationConfiguration.Initialize();
-        Application.Run(new Form1());
-
-        Character myCharacter = new Character();
-
+        Player player = new();
+        Enemy enemy = new();
+        //DialogueManager manager = new();
+        Application.Run(new CharacterCreationForm(player));
+        Application.Run(new DialogueForm(player,enemy));
+        Application.Run(new CombatForm(player,enemy));
 
     }    
 }
