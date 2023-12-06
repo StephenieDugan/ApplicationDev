@@ -1,4 +1,5 @@
-﻿namespace MauiAppGobs
+﻿
+namespace MauiAppGobs
 {
     public partial class MainPage : ContentPage
     {

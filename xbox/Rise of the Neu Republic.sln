@@ -5,7 +5,11 @@ VisualStudioVersion = 17.7.34018.315
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rise of the Neu Republic", "Rise of the Neu Republic.csproj", "{CE7F0DAB-7A44-4283-9501-A9D2D0D83891}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiAppGobs", "..\MauiAppGobs\MauiAppGobs.csproj", "{DE819C96-4D20-4F0F-8ED7-FAD97C89F43C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MauiAppGobs", "..\MauiAppGobs\MauiAppGobs.csproj", "{DE819C96-4D20-4F0F-8ED7-FAD97C89F43C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KnightsOfTheNewRepublic", "..\KnightsOfTheNewRepublic\KnightsOfTheNewRepublic.csproj", "{C77B88EB-EB46-4EC8-B989-5D24EC0FF1B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoblinClassLibrary", "..\GoblinClassLibrary\GoblinClassLibrary.csproj", "{99A46263-4AE5-41AC-9E26-0944F539D20A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,6 +27,14 @@ Global
 		{DE819C96-4D20-4F0F-8ED7-FAD97C89F43C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE819C96-4D20-4F0F-8ED7-FAD97C89F43C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{DE819C96-4D20-4F0F-8ED7-FAD97C89F43C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{C77B88EB-EB46-4EC8-B989-5D24EC0FF1B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C77B88EB-EB46-4EC8-B989-5D24EC0FF1B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C77B88EB-EB46-4EC8-B989-5D24EC0FF1B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C77B88EB-EB46-4EC8-B989-5D24EC0FF1B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99A46263-4AE5-41AC-9E26-0944F539D20A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99A46263-4AE5-41AC-9E26-0944F539D20A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99A46263-4AE5-41AC-9E26-0944F539D20A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99A46263-4AE5-41AC-9E26-0944F539D20A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

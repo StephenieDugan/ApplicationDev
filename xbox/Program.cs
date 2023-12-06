@@ -1,5 +1,4 @@
-using Rise_of_the_Neu_Republic.Utilities;
-
+using GoblinClassLibrary;
 namespace ApplicationDev;
 
 static class Program

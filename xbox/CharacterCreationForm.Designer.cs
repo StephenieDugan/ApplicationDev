@@ -142,6 +142,7 @@ partial class CharacterCreationForm
         dexLvl.Size = new Size(42, 25);
         dexLvl.TabIndex = 9;
         dexLvl.Text = "900";
+        dexLvl.Click += dexLvl_Click;
         // 
         // constLvl
         // 

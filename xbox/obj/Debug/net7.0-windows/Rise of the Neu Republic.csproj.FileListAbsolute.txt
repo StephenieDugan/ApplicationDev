@@ -16,3 +16,7 @@ C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1
 C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\xbox\obj\Debug\net7.0-windows\ApplicationDev.CharacterCreationForm.resources
 C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\xbox\obj\Debug\net7.0-windows\ApplicationDev.CombatForm.resources
 C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\xbox\obj\Debug\net7.0-windows\ApplicationDev.DialogueForm.resources
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\xbox\obj\Debug\net7.0-windows\Rise of the Neu Republic.csproj.AssemblyReference.cache
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\xbox\bin\Debug\net7.0-windows\GoblinClassLibrary.dll
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\xbox\bin\Debug\net7.0-windows\GoblinClassLibrary.pdb
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\xbox\obj\Debug\net7.0-windows\Rise of the Neu Republic.csproj.CopyComplete

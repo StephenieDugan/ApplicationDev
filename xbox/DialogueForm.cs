@@ -1,5 +1,4 @@
-
-using Rise_of_the_Neu_Republic.Utilities;
+using GoblinClassLibrary;
 using System.Windows.Forms.VisualStyles;
 using System.Xml.Linq;
 using System.Windows.Forms;
@@ -64,6 +63,7 @@ namespace ApplicationDev
                     "\nFirst up is a skeleton making some noise god awful at night and we'd really appreciate" + 
                     "\nthe finally peaceful night. Last is a slime gooing up and destroying our crops. What'll it be?";
                 playerCharacter.hasShield = true;
+                playerCharacter.hasSword = true;
                 btnOption1.Text = "Skeleton";
                 btnOption2.Visible = true;
                 btnOption2.Text = "Slime";

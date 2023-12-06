@@ -9,6 +9,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\GoblinClassLibrary\GoblinClassLibrary.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Compile Update="CombatForm.cs" />
     <Compile Update="DialogueForm.cs" />
   </ItemGroup>

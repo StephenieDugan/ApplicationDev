@@ -1,5 +1,4 @@
-
-using Rise_of_the_Neu_Republic.Utilities;
+using GoblinClassLibrary;
 using System.Windows.Forms.VisualStyles;
 using System.Xml.Linq;
 using System.Windows.Forms;
@@ -59,6 +58,11 @@ namespace ApplicationDev
         }
 
         private void txtName_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void dexLvl_Click(object sender, EventArgs e)
         {
 
         }

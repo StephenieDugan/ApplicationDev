@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Vj4VJsaebn2T9WammUMFQzMZlqytqMT3v26bjkLZiOl2pWSNYlsT1cdP6IgIvBR0kO/IGXW56XTE/RzghghCBA==",
+  "dgSpecHash": "GDnfWRoC0GNHdqv7EcLGPNGdP7nv26ASVE2lr9BcNbEd8/WAvAwfilUcOJFSxFhhZ7MbN7DgU50hkE+5+19alA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Stephenie\\OneDrive - Neumont College of Computer Science\\Second Year\\Q1\\ApplicationDev\\ApplicationDev\\MauiAppGobs\\MauiAppGobs.csproj",
   "expectedPackageFiles": [
@@ -100,16 +100,16 @@
     "C:\\Users\\Stephenie\\.nuget\\packages\\xamarin.kotlin.stdlib.jdk8\\1.7.20.1\\xamarin.kotlin.stdlib.jdk8.1.7.20.1.nupkg.sha512",
     "C:\\Users\\Stephenie\\.nuget\\packages\\xamarin.kotlinx.coroutines.android\\1.6.4.1\\xamarin.kotlinx.coroutines.android.1.6.4.1.nupkg.sha512",
     "C:\\Users\\Stephenie\\.nuget\\packages\\xamarin.kotlinx.coroutines.core.jvm\\1.6.4.1\\xamarin.kotlinx.coroutines.core.jvm.1.6.4.1.nupkg.sha512",
-    "C:\\Users\\Stephenie\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.android-arm\\7.0.11\\microsoft.netcore.app.runtime.mono.android-arm.7.0.11.nupkg.sha512",
-    "C:\\Users\\Stephenie\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.android-x86\\7.0.11\\microsoft.netcore.app.runtime.mono.android-x86.7.0.11.nupkg.sha512",
-    "C:\\Users\\Stephenie\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.android-x64\\7.0.11\\microsoft.netcore.app.runtime.mono.android-x64.7.0.11.nupkg.sha512",
-    "C:\\Users\\Stephenie\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.android-arm64\\7.0.11\\microsoft.netcore.app.runtime.mono.android-arm64.7.0.11.nupkg.sha512",
-    "C:\\Users\\Stephenie\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.iossimulator-x64\\7.0.11\\microsoft.netcore.app.runtime.mono.iossimulator-x64.7.0.11.nupkg.sha512",
-    "C:\\Users\\Stephenie\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.maccatalyst-x64\\7.0.11\\microsoft.netcore.app.runtime.mono.maccatalyst-x64.7.0.11.nupkg.sha512",
-    "C:\\Users\\Stephenie\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.29\\microsoft.windows.sdk.net.ref.10.0.19041.29.nupkg.sha512",
-    "C:\\Users\\Stephenie\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.11\\microsoft.aspnetcore.app.runtime.win-x64.7.0.11.nupkg.sha512",
-    "C:\\Users\\Stephenie\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.11\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.11.nupkg.sha512",
-    "C:\\Users\\Stephenie\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.11\\microsoft.netcore.app.runtime.win-x64.7.0.11.nupkg.sha512"
+    "C:\\Users\\Stephenie\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.android-arm\\7.0.14\\microsoft.netcore.app.runtime.mono.android-arm.7.0.14.nupkg.sha512",
+    "C:\\Users\\Stephenie\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.android-x86\\7.0.14\\microsoft.netcore.app.runtime.mono.android-x86.7.0.14.nupkg.sha512",
+    "C:\\Users\\Stephenie\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.android-x64\\7.0.14\\microsoft.netcore.app.runtime.mono.android-x64.7.0.14.nupkg.sha512",
+    "C:\\Users\\Stephenie\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.android-arm64\\7.0.14\\microsoft.netcore.app.runtime.mono.android-arm64.7.0.14.nupkg.sha512",
+    "C:\\Users\\Stephenie\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.iossimulator-x64\\7.0.14\\microsoft.netcore.app.runtime.mono.iossimulator-x64.7.0.14.nupkg.sha512",
+    "C:\\Users\\Stephenie\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.maccatalyst-x64\\7.0.14\\microsoft.netcore.app.runtime.mono.maccatalyst-x64.7.0.14.nupkg.sha512",
+    "C:\\Users\\Stephenie\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.31\\microsoft.windows.sdk.net.ref.10.0.19041.31.nupkg.sha512",
+    "C:\\Users\\Stephenie\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.14\\microsoft.aspnetcore.app.runtime.win-x64.7.0.14.nupkg.sha512",
+    "C:\\Users\\Stephenie\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.14\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.14.nupkg.sha512",
+    "C:\\Users\\Stephenie\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.14\\microsoft.netcore.app.runtime.win-x64.7.0.14.nupkg.sha512"
   ],
   "logs": []
 }

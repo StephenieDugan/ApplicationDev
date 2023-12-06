@@ -1,5 +1,4 @@
-
-using Rise_of_the_Neu_Republic.Utilities;
+using GoblinClassLibrary;
 using System.Windows.Forms.VisualStyles;
 using System.Xml.Linq;
 using System.Windows.Forms;
@@ -92,21 +91,21 @@ namespace ApplicationDev
         private void AttackEnemy_Click(object sender, EventArgs e)
         {
             combatManager.PlayerAttack(enemyCharacter, playerCharacter);
-            lblEnemyHealth.Text = playerCharacter.Health.ToString();
+            lblEnemyHealth.Text = enemyCharacter.Health.ToString();
             lblNarrate.Visible = false;
         }
 
         private void DefendPlayer_Click(object sender, EventArgs e)
         {
             combatManager.EnemyAttack(enemyCharacter, playerCharacter);
-            lblPlayerHealth.Text = enemyCharacter.Health.ToString();
+            lblPlayerHealth.Text = playerCharacter.Health.ToString();
             lblNarrate.Visible = false;
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
             combatManager.PlayerCast(enemyCharacter, playerCharacter);
-            lblEnemyHealth.Text = playerCharacter.Health.ToString();
+            lblEnemyHealth.Text = enemyCharacter.Health.ToString();
             lblNarrate.Visible = false;
         }
     }

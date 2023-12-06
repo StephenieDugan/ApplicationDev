@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v7.0": {
       "Rise of the Neu Republic/1.0.0": {
+        "dependencies": {
+          "GoblinClassLibrary": "1.0.0"
+        },
         "runtime": {
           "Rise of the Neu Republic.dll": {}
+        }
+      },
+      "GoblinClassLibrary/1.0.0": {
+        "runtime": {
+          "GoblinClassLibrary.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Rise of the Neu Republic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GoblinClassLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
