@@ -29,29 +29,29 @@
     <AppXManifest Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-12-06T07:47:55.461</Modified>
+      <Modified>2023-12-07T16:40:03.844</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-12-05T17:10:59.830</Modified>
+      <Modified>2023-12-07T16:40:03.588</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\MauiAppGobs.runtimeconfig.json">
       <PackagePath>MauiAppGobs.runtimeconfig.json</PackagePath>
-      <Modified>2023-12-05T17:10:59.750</Modified>
+      <Modified>2023-12-07T16:40:03.206</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\MauiAppGobs.dll">
       <PackagePath>MauiAppGobs.dll</PackagePath>
-      <Modified>2023-12-06T07:47:54.204</Modified>
+      <Modified>2023-12-07T16:40:01.952</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MauiAppGobs.exe</PackagePath>
-      <Modified>2023-12-06T07:47:54.250</Modified>
+      <Modified>2023-12-07T16:40:01.957</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\MauiAppGobs.deps.json">
       <PackagePath>MauiAppGobs.deps.json</PackagePath>
-      <Modified>2023-12-05T17:10:59.749</Modified>
+      <Modified>2023-12-07T16:40:03.093</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.14\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -725,25 +725,25 @@
       <PackagePath>netstandard.dll</PackagePath>
       <Modified>2023-10-19T23:38:34.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Core.Runtime.win\7.0.92\lib\net7.0-windows10.0.19041\Microsoft.Maui.dll">
+    <AppxPackagedFile Include="C:\Users\Stephenie\.nuget\packages\microsoft.maui.core.runtime.win\7.0.101\lib\net7.0-windows10.0.19041\Microsoft.Maui.dll">
       <PackagePath>Microsoft.Maui.dll</PackagePath>
-      <Modified>2023-06-30T23:58:02.000</Modified>
+      <Modified>2023-11-02T20:38:38.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Runtime.win\7.0.92\lib\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.dll">
+    <AppxPackagedFile Include="C:\Users\Stephenie\.nuget\packages\microsoft.maui.controls.runtime.win\7.0.101\lib\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.dll">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.dll</PackagePath>
-      <Modified>2023-06-30T23:57:38.000</Modified>
+      <Modified>2023-11-02T20:38:46.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Runtime.win\7.0.92\lib\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Xaml.dll">
+    <AppxPackagedFile Include="C:\Users\Stephenie\.nuget\packages\microsoft.maui.controls.runtime.win\7.0.101\lib\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Xaml.dll">
       <PackagePath>Microsoft.Maui.Controls.Xaml.dll</PackagePath>
-      <Modified>2023-06-30T23:58:26.000</Modified>
+      <Modified>2023-11-02T20:38:48.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Runtime.win\7.0.92\lib\net7.0-windows10.0.19041\Microsoft.Maui.Controls.dll">
+    <AppxPackagedFile Include="C:\Users\Stephenie\.nuget\packages\microsoft.maui.controls.runtime.win\7.0.101\lib\net7.0-windows10.0.19041\Microsoft.Maui.Controls.dll">
       <PackagePath>Microsoft.Maui.Controls.dll</PackagePath>
-      <Modified>2023-06-30T23:58:24.000</Modified>
+      <Modified>2023-11-02T20:38:46.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Essentials.Runtime.win\7.0.92\lib\net7.0-windows10.0.19041\Microsoft.Maui.Essentials.dll">
+    <AppxPackagedFile Include="C:\Users\Stephenie\.nuget\packages\microsoft.maui.essentials.runtime.win\7.0.101\lib\net7.0-windows10.0.19041\Microsoft.Maui.Essentials.dll">
       <PackagePath>Microsoft.Maui.Essentials.dll</PackagePath>
-      <Modified>2023-06-30T23:57:58.000</Modified>
+      <Modified>2023-11-02T20:38:44.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.14\runtimes\win-x64\native\Microsoft.DiaSymReader.Native.amd64.dll">
       <PackagePath>Microsoft.DiaSymReader.Native.amd64.dll</PackagePath>
@@ -849,13 +849,13 @@
       <PackagePath>Microsoft.Graphics.Canvas.Interop.dll</PackagePath>
       <Modified>2023-05-31T20:07:52.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Stephenie\.nuget\packages\microsoft.maui.graphics\7.0.92\lib\net7.0-windows10.0.19041\Microsoft.Maui.Graphics.dll">
+    <AppxPackagedFile Include="C:\Users\Stephenie\.nuget\packages\microsoft.maui.graphics\7.0.101\lib\net7.0-windows10.0.19041\Microsoft.Maui.Graphics.dll">
       <PackagePath>Microsoft.Maui.Graphics.dll</PackagePath>
-      <Modified>2023-06-30T16:57:36.000</Modified>
+      <Modified>2023-11-02T20:38:18.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Stephenie\.nuget\packages\microsoft.maui.graphics.win2d.winui.desktop\7.0.92\lib\net7.0-windows10.0.19041\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll">
+    <AppxPackagedFile Include="C:\Users\Stephenie\.nuget\packages\microsoft.maui.graphics.win2d.winui.desktop\7.0.101\lib\net7.0-windows10.0.19041\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll">
       <PackagePath>Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll</PackagePath>
-      <Modified>2023-06-30T16:58:24.000</Modified>
+      <Modified>2023-11-02T20:38:16.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\.nuget\packages\microsoft.windowsappsdk\1.2.221209.1\lib\net6.0-windows10.0.18362.0\Microsoft.InteractiveExperiences.Projection.dll">
       <PackagePath>Microsoft.InteractiveExperiences.Projection.dll</PackagePath>
@@ -923,19 +923,19 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\GoblinClassLibrary\bin\Debug\net6.0\GoblinClassLibrary.dll">
       <PackagePath>GoblinClassLibrary.dll</PackagePath>
-      <Modified>2023-12-06T07:23:59.741</Modified>
+      <Modified>2023-12-07T15:37:55.524</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\7.0.92\ref\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
+    <AppxPackagedFile Include="C:\Users\Stephenie\.nuget\packages\microsoft.maui.controls.ref.win\7.0.101\ref\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
-      <Modified>2023-06-30T23:51:22.000</Modified>
+      <Modified>2023-11-02T20:31:22.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\7.0.92\ref\net7.0-windows10.0.19041\Microsoft.Maui.Controls.pri">
+    <AppxPackagedFile Include="C:\Users\Stephenie\.nuget\packages\microsoft.maui.controls.ref.win\7.0.101\ref\net7.0-windows10.0.19041\Microsoft.Maui.Controls.pri">
       <PackagePath>Microsoft.Maui.Controls.pri</PackagePath>
-      <Modified>2023-06-30T23:51:02.000</Modified>
+      <Modified>2023-11-02T20:31:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Core.Ref.win\7.0.92\ref\net7.0-windows10.0.19041\Microsoft.Maui.pri">
+    <AppxPackagedFile Include="C:\Users\Stephenie\.nuget\packages\microsoft.maui.core.ref.win\7.0.101\ref\net7.0-windows10.0.19041\Microsoft.Maui.pri">
       <PackagePath>Microsoft.Maui.pri</PackagePath>
-      <Modified>2023-06-30T23:50:38.000</Modified>
+      <Modified>2023-11-02T20:30:16.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -943,23 +943,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.246</Modified>
+      <Modified>2023-12-07T15:38:01.797</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.258</Modified>
+      <Modified>2023-12-07T15:38:01.809</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.275</Modified>
+      <Modified>2023-12-07T15:38:01.824</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.299</Modified>
+      <Modified>2023-12-07T15:38:01.849</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.384</Modified>
+      <Modified>2023-12-07T15:38:01.939</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
@@ -971,207 +971,207 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2023-11-28T17:16:33.430</Modified>
+      <Modified>2023-12-07T15:38:01.979</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.676</Modified>
+      <Modified>2023-12-07T15:38:02.172</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.687</Modified>
+      <Modified>2023-12-07T15:38:02.182</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.696</Modified>
+      <Modified>2023-12-07T15:38:02.190</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.709</Modified>
+      <Modified>2023-12-07T15:38:02.203</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.778</Modified>
+      <Modified>2023-12-07T15:38:02.251</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.501</Modified>
+      <Modified>2023-12-07T15:38:02.040</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.506</Modified>
+      <Modified>2023-12-07T15:38:02.042</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.520</Modified>
+      <Modified>2023-12-07T15:38:02.053</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.510</Modified>
+      <Modified>2023-12-07T15:38:02.045</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.514</Modified>
+      <Modified>2023-12-07T15:38:02.047</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.480</Modified>
+      <Modified>2023-12-07T15:38:02.023</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.482</Modified>
+      <Modified>2023-12-07T15:38:02.026</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.498</Modified>
+      <Modified>2023-12-07T15:38:02.037</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.486</Modified>
+      <Modified>2023-12-07T15:38:02.029</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.490</Modified>
+      <Modified>2023-12-07T15:38:02.032</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.438</Modified>
+      <Modified>2023-12-07T15:38:01.989</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.440</Modified>
+      <Modified>2023-12-07T15:38:01.993</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.444</Modified>
+      <Modified>2023-12-07T15:38:01.996</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.450</Modified>
+      <Modified>2023-12-07T15:38:01.998</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.455</Modified>
+      <Modified>2023-12-07T15:38:02.002</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.459</Modified>
+      <Modified>2023-12-07T15:38:02.005</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.462</Modified>
+      <Modified>2023-12-07T15:38:02.008</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.476</Modified>
+      <Modified>2023-12-07T15:38:02.020</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.467</Modified>
+      <Modified>2023-12-07T15:38:02.010</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.470</Modified>
+      <Modified>2023-12-07T15:38:02.013</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.572</Modified>
+      <Modified>2023-12-07T15:38:02.090</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.578</Modified>
+      <Modified>2023-12-07T15:38:02.094</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.586</Modified>
+      <Modified>2023-12-07T15:38:02.099</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.594</Modified>
+      <Modified>2023-12-07T15:38:02.106</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.609</Modified>
+      <Modified>2023-12-07T15:38:02.118</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.546</Modified>
+      <Modified>2023-12-07T15:38:02.073</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.551</Modified>
+      <Modified>2023-12-07T15:38:02.075</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.555</Modified>
+      <Modified>2023-12-07T15:38:02.078</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.559</Modified>
+      <Modified>2023-12-07T15:38:02.081</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.567</Modified>
+      <Modified>2023-12-07T15:38:02.087</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.524</Modified>
+      <Modified>2023-12-07T15:38:02.057</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.529</Modified>
+      <Modified>2023-12-07T15:38:02.059</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.533</Modified>
+      <Modified>2023-12-07T15:38:02.062</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.536</Modified>
+      <Modified>2023-12-07T15:38:02.066</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.542</Modified>
+      <Modified>2023-12-07T15:38:02.070</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.614</Modified>
+      <Modified>2023-12-07T15:38:02.122</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.620</Modified>
+      <Modified>2023-12-07T15:38:02.127</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.629</Modified>
+      <Modified>2023-12-07T15:38:02.133</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.640</Modified>
+      <Modified>2023-12-07T15:38:02.142</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.666</Modified>
+      <Modified>2023-12-07T15:38:02.165</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.480</Modified>
+      <Modified>2023-12-07T15:38:02.017</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.489</Modified>
+      <Modified>2023-12-07T15:38:02.026</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.503</Modified>
+      <Modified>2023-12-07T15:38:02.038</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.522</Modified>
+      <Modified>2023-12-07T15:38:02.055</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2023-11-28T17:16:33.564</Modified>
+      <Modified>2023-12-07T15:38:02.091</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

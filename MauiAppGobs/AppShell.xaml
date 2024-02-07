@@ -8,7 +8,8 @@
 
     <ShellContent
         Title="Goblins And GUIs"
-        ContentTemplate="{DataTemplate local:MainPage}"
+        ContentTemplate="{DataTemplate local:CharacterCreationPage}"
         Route="MainPage" />
+   
 
 </Shell>

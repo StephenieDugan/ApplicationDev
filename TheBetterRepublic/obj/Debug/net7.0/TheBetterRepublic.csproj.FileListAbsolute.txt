@@ -1,0 +1,13 @@
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TheBetterRepublic\bin\Debug\net7.0\TheBetterRepublic.deps.json
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TheBetterRepublic\bin\Debug\net7.0\TheBetterRepublic.dll
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TheBetterRepublic\bin\Debug\net7.0\TheBetterRepublic.pdb
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TheBetterRepublic\obj\Debug\net7.0\TheBetterRepublic.csproj.AssemblyReference.cache
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TheBetterRepublic\obj\Debug\net7.0\TheBetterRepublic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TheBetterRepublic\obj\Debug\net7.0\TheBetterRepublic.AssemblyInfoInputs.cache
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TheBetterRepublic\obj\Debug\net7.0\TheBetterRepublic.AssemblyInfo.cs
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TheBetterRepublic\obj\Debug\net7.0\TheBetterRepublic.csproj.CoreCompileInputs.cache
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TheBetterRepublic\obj\Debug\net7.0\TheBetterRepublic.sourcelink.json
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TheBetterRepublic\obj\Debug\net7.0\TheBetterRepublic.dll
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TheBetterRepublic\obj\Debug\net7.0\refint\TheBetterRepublic.dll
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TheBetterRepublic\obj\Debug\net7.0\TheBetterRepublic.pdb
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\TheBetterRepublic\obj\Debug\net7.0\ref\TheBetterRepublic.dll

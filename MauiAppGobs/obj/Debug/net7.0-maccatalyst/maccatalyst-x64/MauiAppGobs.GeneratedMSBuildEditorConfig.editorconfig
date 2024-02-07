@@ -1,4 +1,8 @@
 is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
 build_property.TargetFramework = net7.0-maccatalyst
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = 
@@ -9,6 +13,8 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MauiAppGobs
 build_property.ProjectDir = C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\MauiAppGobs\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 
 [C:/Users/Stephenie/OneDrive - Neumont College of Computer Science/Second Year/Q1/ApplicationDev/ApplicationDev/MauiAppGobs/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
@@ -27,6 +33,18 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MauiAppGobs.CharacterCreation.xaml
 build_metadata.AdditionalFiles.TargetPath = CharacterCreation.xaml
 build_metadata.AdditionalFiles.RelativePath = CharacterCreation.xaml
+
+[C:/Users/Stephenie/OneDrive - Neumont College of Computer Science/Second Year/Q1/ApplicationDev/ApplicationDev/MauiAppGobs/Combat.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiAppGobs.Combat.xaml
+build_metadata.AdditionalFiles.TargetPath = Combat.xaml
+build_metadata.AdditionalFiles.RelativePath = Combat.xaml
+
+[C:/Users/Stephenie/OneDrive - Neumont College of Computer Science/Second Year/Q1/ApplicationDev/ApplicationDev/MauiAppGobs/Dialogue.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiAppGobs.Dialogue.xaml
+build_metadata.AdditionalFiles.TargetPath = Dialogue.xaml
+build_metadata.AdditionalFiles.RelativePath = Dialogue.xaml
 
 [C:/Users/Stephenie/OneDrive - Neumont College of Computer Science/Second Year/Q1/ApplicationDev/ApplicationDev/MauiAppGobs/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml

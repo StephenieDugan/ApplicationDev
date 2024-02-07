@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HJGxTYbGjlEAMiXhZG/IYbdeE8DKEa9pbWfFYraZJC55omeT/J4KC5V0lQBy0I5QWCNTr8T6GXAuQAv9daVGjQ==",
+  "dgSpecHash": "tBoBlFwmOj36QE1QR3EX6rXtzj/VRJoOkhnrcShKbde4hZZoRewQiR7WqtkhnCEdfpI6G4Cg3/GuHp8s7J3DGA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Stephenie\\OneDrive - Neumont College of Computer Science\\Second Year\\Q1\\ApplicationDev\\ApplicationDev\\GoblinClassLibrary\\GoblinClassLibrary.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Stephenie\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
-    "C:\\Users\\Stephenie\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
-    "C:\\Users\\Stephenie\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

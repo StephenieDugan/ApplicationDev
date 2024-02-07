@@ -3,20 +3,21 @@ C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1
 C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\xbox\bin\Debug\net7.0-windows\Rise of the Neu Republic.runtimeconfig.json
 C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\xbox\bin\Debug\net7.0-windows\Rise of the Neu Republic.dll
 C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\xbox\bin\Debug\net7.0-windows\Rise of the Neu Republic.pdb
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\xbox\bin\Debug\net7.0-windows\GoblinClassLibrary.dll
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\xbox\bin\Debug\net7.0-windows\GoblinClassLibrary.pdb
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\xbox\obj\Debug\net7.0-windows\Rise of the Neu Republic.csproj.AssemblyReference.cache
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\xbox\obj\Debug\net7.0-windows\ApplicationDev.CharacterCreationForm.resources
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\xbox\obj\Debug\net7.0-windows\ApplicationDev.CombatForm.resources
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\xbox\obj\Debug\net7.0-windows\ApplicationDev.DialogueForm.resources
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\xbox\obj\Debug\net7.0-windows\Rise of the Neu Republic.csproj.GenerateResource.cache
 C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\xbox\obj\Debug\net7.0-windows\Rise of the Neu Republic.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\xbox\obj\Debug\net7.0-windows\Rise of the Neu Republic.AssemblyInfoInputs.cache
 C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\xbox\obj\Debug\net7.0-windows\Rise of the Neu Republic.AssemblyInfo.cs
 C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\xbox\obj\Debug\net7.0-windows\Rise of the Neu Republic.csproj.CoreCompileInputs.cache
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\xbox\obj\Debug\net7.0-windows\Rise of the Neu Republic.sourcelink.json
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\xbox\obj\Debug\net7.0-windows\Rise of the Neu Republic.csproj.CopyComplete
 C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\xbox\obj\Debug\net7.0-windows\Rise of the Neu Republic.dll
 C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\xbox\obj\Debug\net7.0-windows\refint\Rise of the Neu Republic.dll
 C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\xbox\obj\Debug\net7.0-windows\Rise of the Neu Republic.pdb
 C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\xbox\obj\Debug\net7.0-windows\Rise of the Neu Republic.genruntimeconfig.cache
 C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\xbox\obj\Debug\net7.0-windows\ref\Rise of the Neu Republic.dll
-C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\xbox\obj\Debug\net7.0-windows\Rise of the Neu Republic.csproj.GenerateResource.cache
-C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\xbox\obj\Debug\net7.0-windows\ApplicationDev.CharacterCreationForm.resources
-C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\xbox\obj\Debug\net7.0-windows\ApplicationDev.CombatForm.resources
-C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\xbox\obj\Debug\net7.0-windows\ApplicationDev.DialogueForm.resources
-C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\xbox\obj\Debug\net7.0-windows\Rise of the Neu Republic.csproj.AssemblyReference.cache
-C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\xbox\bin\Debug\net7.0-windows\GoblinClassLibrary.dll
-C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\xbox\bin\Debug\net7.0-windows\GoblinClassLibrary.pdb
-C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\xbox\obj\Debug\net7.0-windows\Rise of the Neu Republic.csproj.CopyComplete

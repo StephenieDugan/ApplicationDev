@@ -5,6 +5,7 @@ C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1
 C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\GoblinClassLibrary\obj\Debug\net6.0\GoblinClassLibrary.AssemblyInfoInputs.cache
 C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\GoblinClassLibrary\obj\Debug\net6.0\GoblinClassLibrary.AssemblyInfo.cs
 C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\GoblinClassLibrary\obj\Debug\net6.0\GoblinClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\GoblinClassLibrary\obj\Debug\net6.0\GoblinClassLibrary.sourcelink.json
 C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\GoblinClassLibrary\obj\Debug\net6.0\GoblinClassLibrary.dll
 C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\GoblinClassLibrary\obj\Debug\net6.0\refint\GoblinClassLibrary.dll
 C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\GoblinClassLibrary\obj\Debug\net6.0\GoblinClassLibrary.pdb

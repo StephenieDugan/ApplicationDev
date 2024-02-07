@@ -1,6 +1,8 @@
 ﻿
-namespace MauiAppGobs
-{
+
+using Microsoft.Maui.Controls;
+namespace MauiAppGobs;
+
     public partial class MainPage : ContentPage
     {
         int count = 0;
@@ -22,4 +24,3 @@ namespace MauiAppGobs
             SemanticScreenReader.Announce(CounterBtn.Text);
         }
     }
-}

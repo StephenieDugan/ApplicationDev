@@ -16,3 +16,14 @@ C:\workspace\neumont\thecoolest\billgates\KnightsOfTheNewRepublic\obj\Debug\net7
 C:\workspace\neumont\thecoolest\billgates\KnightsOfTheNewRepublic\obj\Debug\net7.0-windows\KnightsOfTheNewRepublic.Form1.resources
 C:\workspace\neumont\thecoolest\billgates\KnightsOfTheNewRepublic\obj\Debug\net7.0-windows\KnightsOfTheNewRepublic.csproj.GenerateResource.cache
 C:\workspace\neumont\thecoolest\billgates\KnightsOfTheNewRepublic\obj\Debug\net7.0-windows\KnightsOfTheNewRepublic.Form2.resources
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\KnightsOfTheNewRepublic\obj\Debug\net7.0-windows\KnightsOfTheNewRepublic.Form1.resources
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\KnightsOfTheNewRepublic\obj\Debug\net7.0-windows\KnightsOfTheNewRepublic.Form2.resources
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\KnightsOfTheNewRepublic\obj\Debug\net7.0-windows\KnightsOfTheNewRepublic.csproj.GenerateResource.cache
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\KnightsOfTheNewRepublic\obj\Debug\net7.0-windows\KnightsOfTheNewRepublic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\KnightsOfTheNewRepublic\obj\Debug\net7.0-windows\KnightsOfTheNewRepublic.AssemblyInfoInputs.cache
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\KnightsOfTheNewRepublic\obj\Debug\net7.0-windows\KnightsOfTheNewRepublic.AssemblyInfo.cs
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\KnightsOfTheNewRepublic\obj\Debug\net7.0-windows\KnightsOfTheNewRepublic.csproj.CoreCompileInputs.cache
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\KnightsOfTheNewRepublic\obj\Debug\net7.0-windows\KnightsOfTheNewRepublic.sourcelink.json
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\KnightsOfTheNewRepublic\obj\Debug\net7.0-windows\KnightsOfTheNewRepublic.dll
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\KnightsOfTheNewRepublic\obj\Debug\net7.0-windows\refint\KnightsOfTheNewRepublic.dll
+C:\Users\Stephenie\OneDrive - Neumont College of Computer Science\Second Year\Q1\ApplicationDev\ApplicationDev\KnightsOfTheNewRepublic\obj\Debug\net7.0-windows\KnightsOfTheNewRepublic.pdb

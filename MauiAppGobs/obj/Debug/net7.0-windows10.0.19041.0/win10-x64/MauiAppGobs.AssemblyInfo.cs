@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MauiAppGobs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+ea928082c4e9c8655c1e59f05254be764c7644fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("MauiAppGobs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MauiAppGobs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
